@@ -14,6 +14,10 @@
 #### YouTube: https://www.youtube.com/channel/UCTqPvQ5YTqP8XvWyug-BAFQ
 #### Itch.io: https://superkoolraven.itch.io/
 #### **My personal website!!!**: https://superkoolraven.neocities.org/home.html
+### Statistic
+
+![stats](https://github-readme-stats.vercel.app/api?username=SuperKoolRaven&show_icons=true&theme=dark)
+
 <!--
 **SuperKoolRaven/SuperKoolRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
