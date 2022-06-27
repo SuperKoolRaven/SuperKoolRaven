@@ -13,7 +13,7 @@
 #### Newgrounds: https://superkoolraven.newgrounds.com/
 #### YouTube: https://www.youtube.com/channel/UCTqPvQ5YTqP8XvWyug-BAFQ
 #### Itch.io: https://superkoolraven.itch.io/
-#### **My personal website!!!**: https://superkoolraven.neocities.org/home.html
+#### **My personal website!!!**: https://superkoolraven.github.io/home.html
 ### Statistic
 
 ![stats](https://github-readme-stats.vercel.app/api?username=SuperKoolRaven&show_icons=true&theme=dark)
